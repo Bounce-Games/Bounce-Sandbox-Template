@@ -1,2 +1,2 @@
 # Bounce Sandbox Template
-Template for my bounce games. Templatized from [Fumo Bounce](https://github.com/NafeeJ/Fumo-Bounce) v0.4
+Template for my bounce games. Templatized from [Holo Bounce](https://github.com/Bounce-Games/Holo-Bounce) v1.0
